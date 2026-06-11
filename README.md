@@ -1,10 +1,4 @@
-<h1>Hello guys, I'm Pakonkeat Sanuyee</h1>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Switxhz">
-    <img src="https://komarev.com/ghpvc/?username=Switxhz&label=Profile%20views&color=00FFFF&style=flat-square" alt="Switxhz's profile views" />
-  </a>
-</p>
+<h1 align="center">Hello guys, I'm Pakonkeat Sanuyee</h1>
 
 ## 📌 About Me
 - Hello, i'm Pakonkeat Sanuyee or you can call me Switchz.
