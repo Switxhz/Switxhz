@@ -9,6 +9,7 @@
 ## 📌 About Me
 - Hello, i'm Pakonkeat Sanuyee or you can call me Switchz.
 - 🧑‍🎓Study in RMUTL Doisaket
+- i'm Junior Roblox developer
 - For now i have game project in roblox studio we call "ProjectZ"
 
 
