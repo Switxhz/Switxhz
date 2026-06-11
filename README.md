@@ -25,7 +25,12 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Roblox_Studio_logo_-_2022.svg/500px-Roblox_Studio_logo_-_2022.svg.png" alt="Blender" width="40" />
 </p>
 
-<div align="center">
+
+## 📞 Contact
+- Instagram: [@switchz](https://instagram.com/switchz)
+- Discord: [switchz_]
+- Email: switchzsanuyee@gmail.com
+<!-- <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2d6NnlxMWVhb3VnbGszZ2VkNWMyamk2MGZnamdna294MGEzcXptcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QNFhOolVeCzPQ2Mx85/giphy.gif" alt="Bottom Line" width="100%" />
-</div>
+</div> -->
 
