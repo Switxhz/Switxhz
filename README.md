@@ -15,18 +15,22 @@
   
 ### Languages
 
+<!-- Html -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
 </a>
 
+<!-- Css -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
 </a>
 
+<!-- Python -->
 <a href="https://www.python.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
 </a>
 
+<!-- Lua -->
 <a href="https://www.lua.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="40" />
 </a>
@@ -36,18 +40,22 @@
   
 ### Tools
 
+<!-- Vs code -->
 <a href="https://code.visualstudio.com/">
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="40" />
 </a>
 
+<!--Figma -->
 <a href="https://www.figma.com/">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
 </a>
 
+<!-- Blender -->
 <a href="https://www.blender.com/">
   <img src="https://www.vectorlogo.zone/logos/blender/blender-icon.svg" width="40" />
 </a>
 
+<!-- Roblox studio -->
 <a href="https://create.roblox.com/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Roblox_Studio_logo_-_2022.svg/500px-Roblox_Studio_logo_-_2022.svg.png" width="40" />
 </a>
@@ -66,7 +74,3 @@
 </p>
 
 <h1 align="center">DONT'T GIVE UP<br>KEEP GOING</h1>
-
-<!-- <p align="center">
-  <img src="https://i.postimg.cc/FsNG629N/TEXT.png" width="400" />
-</p> -->
