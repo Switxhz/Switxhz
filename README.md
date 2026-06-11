@@ -30,8 +30,7 @@
 - Discord: switchz_
 - Email: switchzsanuyee@gmail.com
 
-<img src="https://profile-readme-generator.com/assets/resources/uncle-sam.webp" width="40" />
-<!-- <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2d6NnlxMWVhb3VnbGszZ2VkNWMyamk2MGZnamdna294MGEzcXptcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QNFhOolVeCzPQ2Mx85/giphy.gif" alt="Bottom Line" width="100%" />
-</div> -->
+<p align="center">
+  <img src="https://profile-readme-generator.com/assets/resources/uncle-sam.webp" width="200" />
+</p>
 
