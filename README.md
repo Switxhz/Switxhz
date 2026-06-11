@@ -35,5 +35,5 @@
 </p>
 
 <p align="center">
-  <img src="https://postimg.cc/7JwS3j1t" width="200" />
+  <img src=https://i.postimg.cc/7hTXkk54/Project-Z-(2).png" width="200" />
 </p>
