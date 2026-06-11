@@ -15,19 +15,43 @@
   
 ### Languages
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="40" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
+</a>
+
+<a href="https://www.python.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+</a>
+
+<a href="https://www.lua.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="40" />
+</a>
+
 </td>
 <td align="center" width="300">
   
 ### Tools
-  
-<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="40" />
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
-<img src="https://www.vectorlogo.zone/logos/blender/blender-icon.svg" width="40" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Roblox_Studio_logo_-_2022.svg/500px-Roblox_Studio_logo_-_2022.svg.png" width="40" />
+
+<a href="https://code.visualstudio.com/">
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="40" />
+</a>
+
+<a href="https://www.figma.com/">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
+</a>
+
+<a href="https://www.blender.com/">
+  <img src="https://www.vectorlogo.zone/logos/blender/blender-icon.svg" width="40" />
+</a>
+
+<a href="https://create.roblox.com/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Roblox_Studio_logo_-_2022.svg/500px-Roblox_Studio_logo_-_2022.svg.png" width="40" />
+</a>
+
 </td>
 </tr>
 </table>
