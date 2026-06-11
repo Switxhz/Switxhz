@@ -1,8 +1,7 @@
 <!-- Image Thumnail -->
 <p align="center">
   <img src="https://i.postimg.cc/gjmSv04v/Gemini-Generated-Image-1k77h61k77h61k77.png" width="1280" />
-</p><br>
--This profile create for use study in universal
+</p>
 
 <h1 align="center">Hello guys, I'm Pakonkeat Sanuyee</h1>
 
@@ -74,6 +73,8 @@
 - Instagram: [@switchz](https://instagram.com/Switxhz)
 - Discord: switchz_
 - Email: switchzsanuyee@gmail.com
+
+-This profile create for use study in universal, but info is real :3
 
 <p align="center">
   <img src="https://profile-readme-generator.com/assets/resources/uncle-sam.webp" width="200" />
