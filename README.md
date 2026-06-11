@@ -27,9 +27,9 @@
 
 
 ## 📞 Contact
-- Instagram: [@switchz](https://instagram.com/switchz)
+- Instagram: [@switchz](https://instagram.com/Switxhz)
 - Discord: [switchz_]
-- Email: switchzsanuyee@gmail.com
+- Email: [switchzsanuyee@gmail.com]
 <!-- <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2d6NnlxMWVhb3VnbGszZ2VkNWMyamk2MGZnamdna294MGEzcXptcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QNFhOolVeCzPQ2Mx85/giphy.gif" alt="Bottom Line" width="100%" />
 </div> -->
