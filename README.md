@@ -35,5 +35,5 @@
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/FsNG629N/TEXT.png" width="100" />
+  <img src="https://i.postimg.cc/FsNG629N/TEXT.png" width="400" />
 </p>
