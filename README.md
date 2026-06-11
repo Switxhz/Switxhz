@@ -31,6 +31,7 @@
 </p>
 
 <div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2VqNXQ3a3ozbDkyMGt5NnJqOTl1b21wcnB4azJ4MjczOXhmZXZyMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/F3pNclTI7nIoIR3tcM/giphy.gif" alt="Bottom Line" width="100%" />
   <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/flames.gif" alt="Bottom Line" width="100%" />
 </div>
 
