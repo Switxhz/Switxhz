@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, i'm Pakonkeat Sanuyee or you can call me Switchz.👋
 
 <!--
 **Switxhz/Switxhz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
