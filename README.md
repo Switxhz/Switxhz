@@ -25,7 +25,7 @@
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Blender" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/Blender/Blender-icon.svg" alt="Blender" width="40" />
 
 </p>
 
