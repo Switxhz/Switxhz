@@ -6,8 +6,6 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/e0/93/3c/e0933cfe30da2c82232d339dc0e64eb6.gif" alt="Banner" width="100%" />
-
 ## 📌 About Me
 - Hello, i'm Pakonkeat Sanuyee or you can call me Switchz.
 - 🧑‍🎓Study in RMUTL Doisaket
