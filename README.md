@@ -12,14 +12,18 @@
 <table align="center">
 <tr>
 <td align="center" width="300">
+  
 ### Languages
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="40" />
 </td>
 <td align="center" width="300">
+  
 ### Tools
+  
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="40" />
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
 <img src="https://www.vectorlogo.zone/logos/blender/blender-icon.svg" width="40" />
