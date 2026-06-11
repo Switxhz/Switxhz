@@ -1,11 +1,48 @@
-## Hello, i'm Pakonkeat Sanuyee or you can call me Switchz.
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Pakonkeat%20Sanuyee&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Switxhz">
+    <img src="https://komarev.com/ghpvc/?username=Switxhz&label=Profile%20views&color=00FFFF&style=flat-square" alt="Switxhz's profile views" />
+  </a>
 </p>
 
-<h3 align="left">Languages:</h3>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>|
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<img src="https://i.pinimg.com/originals/e0/93/3c/e0933cfe30da2c82232d339dc0e64eb6.gif" alt="Banner" width="100%" />
 
-<h3 align="left">Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
+## 📌 About Me
+- Hello, i'm Pakonkeat Sanuyee or you can call me Switchz.
+- 🧑‍🎓Study in RMUTL Doisaket
+- For now i have game project in roblox studio we call "ProjectZ"
+
+
+## 🛠️ Languages & Tools
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/Switxhz">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Switxhz&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/flames.gif" alt="Bottom Line" width="100%" />
+</div>
+
