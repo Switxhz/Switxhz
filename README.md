@@ -1,3 +1,9 @@
+<!-- Image Thumnail -->
+<p align="center">
+  <img src="https://i.postimg.cc/gjmSv04v/Gemini-Generated-Image-1k77h61k77h61k77.png" width="200" />
+</p>
+
+
 <h1 align="center">Hello guys, I'm Pakonkeat Sanuyee</h1>
 
 ## 📌 About Me
