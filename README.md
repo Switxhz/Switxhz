@@ -9,21 +9,25 @@
 
 ## 🛠️ Languages & Tools
 
-<h3 align="center">Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="CSS3" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="CSS3" width="40" />
-</p>
+<table align="center">
+<tr>
+<td align="center" width="300">
 
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/blender/blender-icon.svg" alt="Blender" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Roblox_Studio_logo_-_2022.svg/500px-Roblox_Studio_logo_-_2022.svg.png" alt="Blender" width="40" />
-</p>
+### Languages
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="40" />
+</td>
+<td align="center" width="300">
+### Tools
+<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="40" />
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
+<img src="https://www.vectorlogo.zone/logos/blender/blender-icon.svg" width="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Roblox_Studio_logo_-_2022.svg/500px-Roblox_Studio_logo_-_2022.svg.png" width="40" />
+</td>
+</tr>
+</table>
 
 ## 📞 Contact
 - Instagram: [@switchz](https://instagram.com/Switxhz)
