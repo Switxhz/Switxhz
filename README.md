@@ -34,4 +34,6 @@
   <img src="https://profile-readme-generator.com/assets/resources/uncle-sam.webp" width="200" />
 </p>
 
-<h1 align="center" style="font-family: 'Times New Roman';">DON'T GIVE UP <br>KEEP GOING</h1>
+<p align="center">
+  <img src="https://postimg.cc/7JwS3j1t" width="200" />
+</p>
