@@ -11,6 +11,10 @@
 - i'm Junior Roblox developer
 - For now i have game project in roblox studio we call "ProjectZ"
 
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1240601668203184141/1481845329673322589/lv_0_20260312224344.gif?ex=6a2cc401&is=6a2b7281&hm=f949cccd58a70a2c1d11ccdd8645b07ae1540daa30882954694ea839d98d7e06&" width="1280" />
+</p>
+
 
 ## 🛠️ Languages & Tools
 
